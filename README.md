@@ -10,8 +10,8 @@ If you prefer, can read this project on Autodesk's Intructables.com website, [he
 <br>
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch%20functionalities.jpeg" width=450>
-<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch%20functionalities_2.jpeg" width=450>
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20front.jpg" width="45%">
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20sideways.jpg" width="45%">
 </p>
 
 <br>
