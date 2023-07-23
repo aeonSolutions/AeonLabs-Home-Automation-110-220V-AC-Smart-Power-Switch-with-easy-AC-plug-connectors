@@ -5,6 +5,7 @@ The smart outlet PCB designed specifically to fit traditional wall mount light s
 
 If you prefer, can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/).
 
+Buy this smart switch on Tindie.com [here](https://www.tindie.com/products/aeonlabs/pcb-only-110-220v-smart-power-switch/).
 
 <br>
 <br>
