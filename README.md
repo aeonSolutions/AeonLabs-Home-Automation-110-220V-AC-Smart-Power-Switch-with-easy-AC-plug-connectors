@@ -3,7 +3,7 @@
 # 110-220V AC Smart Power Switch with easy AC plug connectors
 The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable. This one in particular has easy AC plug connectors for a more clean and faster installation.
 
-If you prefer, can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/).
+If you prefer, can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/) or on Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-power-switch-outlet-e9c3bb).
 
 Buy this smart switch on Tindie.com [here](https://www.tindie.com/products/aeonlabs/pcb-only-110-220v-smart-power-switch/).
 
