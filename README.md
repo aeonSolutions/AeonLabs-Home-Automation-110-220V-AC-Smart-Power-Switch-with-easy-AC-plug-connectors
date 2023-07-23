@@ -1,11 +1,14 @@
 [PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Home-Automation](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation)  >> [Smart Home AC DC Power Management](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Home-Automation/Smart%20Home%20AC%20%20Dc%20Power%20Management) >> Smart Power Switch / Outlet
 
 # 110-220V AC Smart Power Switch with easy AC plug connectors
+Buy on [Tindie.com ](https://www.tindie.com/products/aeonlabs/pcb-only-110-220v-smart-power-switch/) or on [Gumroad.com ](https://3455782655596.gumroad.com/l/reyaj).
+
+<br>
+
 The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable. This one in particular has easy AC plug connectors for a more clean and faster installation.
 
 If you prefer, can read this project on Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/) or on Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-power-switch-outlet-e9c3bb).
 
-Buy this smart switch on Tindie.com [here](https://www.tindie.com/products/aeonlabs/pcb-only-110-220v-smart-power-switch/) or on Gumroad.com [here](https://3455782655596.gumroad.com/l/reyaj).
 
 <br>
 <br>
