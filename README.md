@@ -48,10 +48,10 @@ This code uses my own ESP32 c++ class libraries to expedite development of code 
 <br>
 
 ## Installed on a Wall box
-
+Here’s how it looks when installed on a wall mount junction box on an old apartment building. See it on Youtube [here](https://www.youtube.com/shorts/Wu2QMnb1vYE).
 
 <p align="center">
-<img src="https://github.com/aeonSolutions/AeonLabs-Smart-Power-Switch-Outlet/blob/main/Designs/smart%20switch%20installed%20on%20a%20wall%20box.jpeg" width=450>
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20wall%20mounted%20%20led%20on.jpg" width=450>
 </p>
 
 <br>
