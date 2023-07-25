@@ -54,6 +54,11 @@ Here’s how it looks when installed on a wall mount junction box on an old apar
 <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20wall%20mounted%20%20led%20on.jpg" width=450>
 </p>
 
+<p align="center">
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20wall%20mounted%20%20led%20on%20with%20bottom%20switch.jpg" width="45%">
+<img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20wall%20mounted%20%20led%20on%20with%20bottom%20switch%20interior.jpg" width="45%">
+</p>
+
 <br>
 
 ## Compatibility
