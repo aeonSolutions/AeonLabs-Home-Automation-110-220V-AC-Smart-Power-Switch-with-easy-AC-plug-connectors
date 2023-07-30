@@ -9,6 +9,16 @@ The smart outlet PCB designed specifically to fit traditional wall mount light s
 
 <br>
 
+If you prefer, can read this project on ....
+
+- Autodesk's Intructables.com website, [here](https://www.instructables.com/member/mtpsilva/?publicPreview=true)
+- Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
+- Medium.com webiste [here](https://medium.com/@mtpsilva)
+  
+I've created a WhatsApp Chat for aditional support of feedback, join us [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) !
+
+<br>
+
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20front.jpg" width="45%">
 <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20sideways.jpg" width="45%">
