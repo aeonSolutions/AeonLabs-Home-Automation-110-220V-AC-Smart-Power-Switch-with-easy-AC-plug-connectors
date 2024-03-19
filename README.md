@@ -6,22 +6,22 @@ Buy on [Tindie.com ](https://www.tindie.com/products/aeonlabs/pcb-only-110-220v-
 <p align="left"> 
  <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png"> 
 <b>Status:</b>
- Hardware electronics are Fully tested and working. First 🥇 release of the firmware code is now available. <br>
-&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping and testing consider a donation or sponsoring. thank you 🙏.
+ Hardware electronics are Fully tested and working. The first 🥇 release of the firmware code is now available. <br>
+&nbsp; Looking for someone available to collaborate on the firmware coding. If you like this project and want faster development, prototyping, and testing consider a donation or sponsoring. thank you 🙏.
  </p>
 
  ##Intro
-The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable. This one in particular has easy AC plug connectors for a more clean and faster installation.
+The smart outlet PCB designed specifically to fit traditional wall mount light switch boxes with dimensions 54x54x45++mm, brings a new level of convenience and functionality to residential and commercial spaces. This innovative solution seamlessly replaces the conventional light switch, providing users with the ability to control their lighting or other connected devices remotely. The compact PCB design ensures a perfect fit within the existing switch box, eliminating the need for any additional modifications or wiring. With features like wireless connectivity, compatibility with voice assistants, and programmable scheduling, this smart outlet PCB revolutionizes the way we interact with our electrical systems, making our lives more efficient and comfortable. This one in particular has easy AC plug connectors for a cleaner and faster installation.
 
 <br>
 
-If you prefer, can read this project on ....
+If you prefer, can read this project on...
 
 - Autodesk's Intructables.com website, [here](https://www.instructables.com/member/mtpsilva/?publicPreview=true)
 - Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-add-on-for-the-philips-senseo-coffee-machine-06d9bf)
 - Medium.com webiste [here](https://medium.com/@mtpsilva)
   
-I've created a WhatsApp Chat for aditional support of feedback, join us [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg) !
+I've created a WhatsApp Chat for additional support of feedback, join us [here](https://chat.whatsapp.com/FkNC7u83kuy2QRA5sqjBVg)!
 
 <br>
 
@@ -38,14 +38,6 @@ I've created a WhatsApp Chat for aditional support of feedback, join us [here](h
 
 <br>
 
-If you prefer, can read this project on ....
-
-- Autodesk's Intructables.com website, [here](https://www.instructables.com/Smart-Power-Switch-Outlet/)
-- Hackster.io website [here](https://www.hackster.io/mtpsilva/smart-power-switch-outlet-e9c3bb).
-- Medium.com webiste [here](https://medium.com/@mtpsilva)
-
-<br>
-
 ### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
   Fully working.
   
@@ -57,14 +49,14 @@ If you prefer, can read this project on ....
 <br>
 
 ## OEM Firmware code
-The OEM version of the firmware code can be found on the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates it self when newer updated versions made available here.  
+The OEM version of the firmware code can be found in the folder **firmware code**.  It has by default OTA updates, meaning this smart switch device automatically updates it self when newer updated versions made available here.  
 
-This code uses my own ESP32 c++ class libraries to expedite development of code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
+This code uses my own ESP32 C++ class libraries to expedite the development of the code of ESP32 microcontrollers. The repository is located [here](https://github.com/aeonSolutions/aeonlabs-ESP32-C-Base-Firmware-Libraries#readme) for anyone to use.
 
 <br>
 
 ## Installed on a Wall box
-Here’s how it looks when installed on a wall mount junction box on an old apartment building. See it on Youtube [here](https://www.youtube.com/shorts/Wu2QMnb1vYE).
+Here’s how it looks when installed on a wall-mount junction box in an old apartment building. See it on YouTube [here](https://www.youtube.com/shorts/Wu2QMnb1vYE).
 
 <p align="center">
 <img src="https://github.com/aeonSolutions/AeonLabs-Home-Automation-110-220V-AC-Smart-Power-Switch-with-easy-AC-plug-connectors/blob/main/media/smart%20switch%20wall%20mounted%20%20led%20on.jpg" width=450>
